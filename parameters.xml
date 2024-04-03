@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<env>
+
+    <Compiler_Name>chrome</Compiler_Name>
+    <data_path>C:/Users/abed/PycharmProjects/pythonProject/data.json</data_path>
+    <Var1>USER</Var1>
+    <Var2>COMMAND</Var2>
+    <Var3>PID</Var3>
+    <Var4>%MEM</Var4>
+    <Error_String>C:/Users/abed/PycharmProjects/pythonProject/data.json</Error_String>
+    <Process>19</Process>
+    <NewValue>123</NewValue>
+
+</env>
